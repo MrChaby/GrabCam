@@ -1,6 +1,6 @@
 #!/bin/bash
 # Inspired by: github.com/thelinuxchoice/saycheese
-# Modified by: github.com/kinghacker0/WishPhish
+# Modified by: github.com/MrChaby/GrabCam
 
 trap 'printf "\n";stop' 2
 
@@ -8,16 +8,17 @@ banner() {
 
 clear
 
-echo -e "\033[31m __          _ _     _     \e[0m ______ _     _          ";
-echo -e "\033[31m \ \        / (_)   | |    \e[0m|  ____(_)   | |         ";
-echo -e "\033[31m  \ \  /\  / / _ ___| | __ \e[0m| |__   _ ___| |__       ";
-echo -e "\033[31m   \ \/  \/ / | / __| '_  |\e[0m|  __| | / __| '_ \      ";
-echo -e "\033[31m    \  /\  /  | \__ \ | | |\e[0m| |    | \__ \ | | |     ";
-echo -e "\033[31m     \/  \/   |_|___/_| |_|\e[0m|_|    |_|___/_| |_| v2.0";
+echo -e "\033[31m   _________            ____  \e[0m _______                      ";
+echo -e "\033[31m  |  _______)          |  _ | \e[0m|  _____)                     ";
+echo -e "\033[31m  | |                  | [_]| \e[0m| |             __  __        ";
+echo -e "\033[31m  | |    _______  ____ |  _<  \e[0m| |       ____ |  \/  |       ";
+echo -e "\033[31m  | |___| G ||R_)|A() ||B[_]| \e[0m|C|_____ |A() ||M  .  |       ";
+echo -e "\033[31m  |_______|_||_\ |_||_||____| \e[0m|_______)|_||_||__||__| ©2021 ";
 
-printf "\e[1;77m Website :- www.hackersking.in \e[0m \n"
-printf "\e[1;77m v2.0 Coded By github.com/kinghacker0 \e[0m \n"
-printf "\e[1;77m Credite Goss to github.com/kinghacker0 \e[0m \n"
+printf "\e[1;77m  \e[0m \n"
+printf "\e[1;77m # source code :- github.com/kinghacker0 \e[0m \n"
+printf "\e[1;77m # by https://github.com/MrChaby/GrabCam \e[0m \n"
+printf "\e[1;77m # v1.0 \e[0m \n"
 
 }
 
