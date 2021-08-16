@@ -5,11 +5,14 @@
 
 <h3>Installation</h3>
 
-```$ pkg install php
-  
-$ pkg install bash
 
-$ pkg install wget
+```$ pkg install git -y 
+  
+$ pkg install php -y
+  
+$ pkg install bash -y
+
+$ pkg install wget -y
 
 $ pkg install openssh
 
